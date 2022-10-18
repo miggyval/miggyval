@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @miggyval (Miguel)
+- 👀 I’m interested in robotics, computer vision, and computer graphics
+- 🌱 I’m currently learning how to use SYCL, and Apple Metal
+- 🤖 I’m looking to collaborate on any robotics/perception/computer vision projects
+- 📖 I'm also interested in writing code for teaching/educational purposes.
+- 📫 How to reach me: valencimm@gmail.com
